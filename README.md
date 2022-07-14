@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+my+name+is+Elkhan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Hi,+my+name+is+Elkhan.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4ECB5A&lines=I+am+a+Frontend+Developer!)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elkhan2003&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
