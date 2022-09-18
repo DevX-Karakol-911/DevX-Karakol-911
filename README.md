@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+## 🙋‍♂️ About Me
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Hi,+my+name+is+Elkhan.)](https://git.io/typing-svg)
 
