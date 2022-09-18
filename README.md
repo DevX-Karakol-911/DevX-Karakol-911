@@ -5,9 +5,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elkhan2003&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical)
-<a href="https://github.com/Bigouser"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+<a href="https://github.com/Bigouser" target="_blank"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
 </a>
-<a href="https://github.com/Bigouser"><img alt="Subham Raoniar's Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/Bigouser" target="_blank"><img alt="Subham Raoniar's Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </a>
 
 ### Follow Me:
