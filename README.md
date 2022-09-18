@@ -22,14 +22,6 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Elkhan2003">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elkhan2003&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
-    </a>
-</p>
-
-<br/>
-
 ## 📊 My Github Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -40,6 +32,11 @@
 </div>
 <a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </a>
+<p align="center">
+    <a href="https://github.com/Elkhan2003">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elkhan2003&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+</p>
 
 ### Follow Me:
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A)](https://wa.me/996990385056)
