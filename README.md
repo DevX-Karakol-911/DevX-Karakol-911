@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elkhan2003&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p style="display: flex; justify-content: center; align-items: center;">
+<p style="display: flex; justify-content: center; align-items: center; height: 200px">
 <a href="https://github.com/Bigouser"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
 </a>
 <a href="https://github.com/Bigouser"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
