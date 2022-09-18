@@ -2,13 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BCDEC&lines=I+am+a+Frontend+Developer!)](https://git.io/typing-svg)
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Elkhan2003">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-profile-trophy.vercel.app/?username=Elkhan2003&theme=dracula&hide_border=true&bg_color=0D1117"/>
     </a>
-</p>
-
-<br/>
+</p> -->
 
 ## 🚀 Languages and Tools:
 
